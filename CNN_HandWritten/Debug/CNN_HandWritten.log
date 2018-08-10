@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(178): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  MLPbase.cpp
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\mlpbase.cpp(14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  useFile.cpp
+  正在生成代码...
+MLPbase.obj : error LNK2005: "class cv::Mat __cdecl ProjectedHistogram(class cv::Mat,int)" (?ProjectedHistogram@@YA?AVMat@cv@@V12@H@Z) 已经在 main.obj 中定义
+MLPbase.obj : error LNK2005: "class cv::Mat __cdecl features(class cv::Mat,int)" (?features@@YA?AVMat@cv@@V12@H@Z) 已经在 main.obj 中定义
+useFile.obj : error LNK2005: "int __cdecl readFlippedInteger(struct _iobuf *)" (?readFlippedInteger@@YAHPAU_iobuf@@@Z) 已经在 main.obj 中定义
+opencv_world341d.lib(opencv_world341d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突

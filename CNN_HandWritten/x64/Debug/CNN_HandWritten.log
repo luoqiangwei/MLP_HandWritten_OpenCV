@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(35): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(186): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(226): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(251): warning C4305: “参数”: 从“double”到“float”截断
+d:\store\cah\creat\2018\opencv\cnn_handwritten\cnn_handwritten\main.cpp(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  CNN_HandWritten.vcxproj -> D:\Store\CAH\Creat\2018\openCV\CNN_HandWritten\x64\Debug\CNN_HandWritten.exe
